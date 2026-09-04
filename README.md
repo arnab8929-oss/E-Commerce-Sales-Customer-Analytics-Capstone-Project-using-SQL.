@@ -1,8 +1,3 @@
-Got it bro 👍 I carefully checked your **actual 14-file structure**. Since your project goes from **database schema → data insertion → analysis → advanced business analysis**, the README should match those exact files.
-
-Here is a polished README.md:
-
-````md
 # 🛒 E-Commerce SQL Capstone Project
 
 ## 📌 Project Overview
